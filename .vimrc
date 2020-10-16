@@ -1,3 +1,4 @@
+" plugins in use: typescript-vim vim-es6 vim-fugitive vim-javascript vim-jsx
 call pathogen#infect()
 
 syntax on
